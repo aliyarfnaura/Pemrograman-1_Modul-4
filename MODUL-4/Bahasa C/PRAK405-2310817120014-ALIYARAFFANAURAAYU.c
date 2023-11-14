@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main (){
     int a, b, i, j, x, y, z, hasil, total ;
     scanf("%d %d", &a, &b);
